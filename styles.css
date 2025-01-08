@@ -35,6 +35,7 @@ body {
   padding: 20px;
   margin: 5px;
   background-color: orange;
+  color: white;
   border-radius: 15px;
 }
 .Numbers {
@@ -71,5 +72,5 @@ button {
 }
 
 button:hover {
-  background-color: darkgrey;
+  background-color: lightgray;
 }
